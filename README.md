@@ -1,4 +1,4 @@
-`BPShighschool.csv` is a dataset containing the 2014 salaries of full-time teachers from 27 Boston public high schools. The data was gathered from the publically available City of Boston Employee Earnings Report from 2014 and was cleaned using python.
+`BPShighschool.csv` is a dataset containing the 2014 salaries of full-time teachers from 27 Boston public high schools. The data was gathered from the publicly available City of Boston Employee Earnings Report from 2014 and was cleaned using python.
 
 #Preprocessing Methodology
 
